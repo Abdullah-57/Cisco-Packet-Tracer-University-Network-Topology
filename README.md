@@ -1,7 +1,6 @@
 # NUCES SDN Project – Computer Networks
 
 This project simulates a **Software-Defined Networking (SDN)** environment using **Cisco Packet Tracer** for a multi-campus network.  
-It was developed as part of the **Computer Networks (Spring 2025)** course under **Dr. Usman Habib** at **FAST-NUCES, Islamabad**.
 
 ---
 
@@ -50,14 +49,7 @@ The network spans **six campuses (Islamabad, Karachi, Lahore, Faisalabad, Peshaw
 ## 👨‍💻 Contributors
 - **Abdullah Daoud (22I-2626)**  
 - **Usman Ali (22I-2725)**  
-- **Faizan Rasheed (22I-2734)**  
-
----
-
-## 📅 Course Information
-- **Course**: Computer Networks (Spring 2025)  
-- **Instructor**: Dr. Usman Habib  
-- **Department**: Software Engineering, FAST-NUCES Islamabad  
+- **Faizan Rasheed (22I-2734)**
 
 ---
 
