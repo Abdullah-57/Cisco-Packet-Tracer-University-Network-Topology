@@ -54,7 +54,7 @@ The network spans **six campuses (Islamabad, Karachi, Lahore, Faisalabad, Peshaw
 ---
 
 ## ⚖️ License
-This project is for **academic purposes only**.  
+This project is for **academic and personal skill development purposes only**.  
 Reuse is allowed for **learning and research** with proper credit.
 
 ---
